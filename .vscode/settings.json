@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "ratio": "cpp",
+        "ostream": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "cwctype": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "valarray": "cpp"
+    }
+
+}
